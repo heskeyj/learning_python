@@ -8,3 +8,4 @@
   - [<code> vigenere_cypher.py </code>](scientific_computing/vigenere_cypher.py) # Implementation of **vigenere cypher** to encrypt and decrypt messages - <i>guided exercise</i>
   - [<code> luhn_algorithm.py </code>](scientific_computing/luhn_algoirthm.py) # Implementation of **luhn algorithm** to check if credit card numbers are genuine - <i>guided exercise</i>
   - [<code> expense_tracker.py </code>](scientific_computing/expense_tracker.py) # Simple expenses tracker using python - <i>guided exercise</i>
+  - [<code> convert_to_snake_case.py </code>](scientific_computing/convert_to_snake_case.py) # Simple conversion tool from camelCase or PascalCase to snake_case - <i>guided exercise</i>
