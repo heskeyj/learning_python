@@ -10,7 +10,8 @@
   - [<code> expense_tracker.py </code>](scientific_computing/expense_tracker.py) # Simple expenses tracker using python - <i>guided exercise</i>
   - [<code> convert_to_snake_case.py </code>](scientific_computing/convert_to_snake_case.py) # Simple conversion tool from camelCase or PascalCase to snake_case - <i>guided exercise</i>
   - [<code> password_generator.py </code>](scientific_computing/password_generator.py) # Password generator using **regular expressions/regex** - <i>guided exercise</i>
-  - [<code> shortest_path_algorithm.py </code>](scientific_computing/shortest_path_algorithmpy) # Shortest path algorithm **algorithm design** - <i>guided exercise</i>
+  - [<code> shortest_path_algorithm.py </code>](scientific_computing/shortest_path_algorithm.py) # Shortest path algorithm **algorithm design** - <i>guided exercise</i>
+  - [<code> tower_of_hanoi_puzzle.py </code>](scientific_computing/tower_of_hanoi_puzzle.py) # Solving tower of hanoi puzzle using **recursion** - <i>guided exercise</i>
 
 
 
